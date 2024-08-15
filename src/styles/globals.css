@@ -1,0 +1,14 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.todoList {
+  display: flex;
+  flex-direction: row;
+}
+.todo {
+  display: flex;
+  gap: 500px;
+}
